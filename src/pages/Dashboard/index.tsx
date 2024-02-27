@@ -1,8 +1,6 @@
 import { SideMenu } from "../../components/SideMenu";
 import { Header } from "../../components/Header";
-import { PiGauge } from "react-icons/pi";
-import { useState } from "react";
-import { api } from "../../data/api/config";
+// import { api } from "../../data/api/config";
 
 export function DashboardPage() {
   return (
