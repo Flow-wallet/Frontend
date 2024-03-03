@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./global.css";
 
-import { DashboardPage } from "./pages/Dashboard";
+// import { DashboardPage } from "./pages/Dashboard";
 import { SignUpPage } from "./pages/Forms/SignUp";
 
 // biome-ignore lint/style/noNonNullAssertion: <explanation>
