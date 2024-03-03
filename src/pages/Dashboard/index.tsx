@@ -4,7 +4,7 @@ import { Header } from "../../components/Header";
 
 export function DashboardPage() {
   return (
-    <div className="max-h-screen max-w-screen flex">
+    <div className="h-screen max-h-screen max-w-screen flex">
       <SideMenu.Root>
         <SideMenu.Brand />
       </SideMenu.Root>
